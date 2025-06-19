@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cdrapos
-- 👀 I’m interested in programming and videogames
+- 👋 Hi, I’m Christos (@cdrapos)
+- 👀 I’m Computer Engineer who loves programming!
 - 🌱 I’m currently learning javascript 
-- ⚡ Fun fact: I love drinking cofee and listening to electronic music
+- ⚡ I love cofee and listening to music
 
 <!---
 cdrapos/cdrapos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
